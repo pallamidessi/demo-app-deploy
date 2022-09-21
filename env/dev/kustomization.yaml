@@ -8,4 +8,4 @@ resources:
 images:
 - name: ghcr.io/argocon2022-workshop/demo-app
   newName: ghcr.io/pallamidessi/demo-app
-  newTag: 35098a80478af662d39e38fbb4c3295f0441a492
+  newTag: 4958c1dc5573ee0699a8fd7aca0b68fb8525ea47
