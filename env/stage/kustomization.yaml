@@ -3,3 +3,7 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/argocon2022-workshop/demo-app
+  newName: ghcr.io/pallamidessi/demo-app
+  newTag: 4958c1dc5573ee0699a8fd7aca0b68fb8525ea47
